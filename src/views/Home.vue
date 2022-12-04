@@ -14,7 +14,7 @@
   >
     <div class="flex flex-col items-center justify-center w-full h-full">
       <div class="flex flex-col justify-center items-center h-screen">
-        <!--Winner section-->
+        <!--Winner-section-->
         <div class="flex">
           <h1
             class="
@@ -67,7 +67,7 @@
           </h1>
         </div>
 
-        <!--Prize section-->
+        <!--Prize-section-->
         <div class="flex">
           <h1
             class="
