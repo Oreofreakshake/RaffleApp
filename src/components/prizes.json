@@ -1,0 +1,62 @@
+[
+    {
+        "name": "PS5",
+        "id": 1
+    },
+    {
+        "name": "Xbox",
+        "id": 2
+    },
+    {
+        "name": "TV",
+        "id": 3
+    },
+    {
+        "name": "Headphones",
+        "id": 4
+    },
+    {
+        "name": "Iphone",
+        "id": 5
+    },
+    {
+        "name": "Samsung",
+        "id": 6
+    },
+    {
+        "name": "Airpod",
+        "id": 7
+    },
+    {
+        "name": "Laptop",
+        "id": 8
+    },
+    {
+        "name": "Bed",
+        "id": 9
+    },
+    {
+        "name": "Snack-pack",
+        "id": 10
+    },
+    {
+        "name": "Door",
+        "id": 11
+    },
+    {
+        "name": "Chair",
+        "id": 12
+    },
+    {
+        "name": "Table",
+        "id": 13
+    },
+    {
+        "name": "Body-Spray",
+        "id": 14
+    },
+    {
+        "name": "Shampoo",
+        "id": 15
+    }
+]
