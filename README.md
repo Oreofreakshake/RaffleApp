@@ -16,6 +16,6 @@
 
 
 ## To-do
-- [] confetti when raffled
+- [x] confetti when raffled
 - [] add participants as a mod (or)
 - [] scrape a txt file of names and prizes into a json object
