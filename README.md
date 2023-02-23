@@ -28,7 +28,7 @@
 - Find ```components``` folder
 - edit the json files to your needs (thats the recommended template)
 
-(I probably won't continue the project but you if you want to improve and contribute you are 100% welcome to do so)
+#### (I probably won't continue the project but if you want to improve and contribute you are 100% welcome to do so)
 
 ## To-do
 - [x] confetti when raffled
