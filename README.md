@@ -1,6 +1,20 @@
 # RaffleApp
 -------------------------------
 
+## Screenshots
+
+- Main intial view
+![Capture](https://user-images.githubusercontent.com/53213763/220857966-0da1459c-88f8-4605-8f17-dddca76bb3bb.PNG)
+
+- Winner raffle
+![Capture2](https://user-images.githubusercontent.com/53213763/220858099-e929ec15-b178-4131-9483-657aac32928b.PNG)
+
+- Prize raffle
+![Capture3](https://user-images.githubusercontent.com/53213763/220858130-9dba0d32-7637-4975-a7ae-461a12953694.PNG)
+
+- after getting the prize now you can press reset and restart your raffle 
+
+
 ## How to use this repo 
 - run this in your terminal/cmd ```git clone https://github.com/Oreofreakshake/RaffleApp.git```
 - go to the cloned repo and ```cd RaffleApp```
