@@ -28,8 +28,9 @@
 - Find ```components``` folder
 - edit the json files to your needs (thats the recommended template)
 
+(I probably won't continue the project but you if you want to improve and contribute you are 100% welcome to do so)
 
 ## To-do
 - [x] confetti when raffled
-- [] add participants as a mod (or)
-- [] scrape a txt file of names and prizes into a json object
+- [ ] add participants as a mod (or)
+- [ ] scrape a txt file of names and prizes into a json object
