@@ -1,5 +1,6 @@
 # RaffleApp
 -------------------------------
+### I won't update or improve the app, but would be very much appreciated if you give credit, if ever used :)
 
 ## Screenshots
 
@@ -28,9 +29,7 @@
 - Find ```components``` folder
 - edit the json files to your needs (thats the recommended template)
 
-#### (I probably won't continue the project but if you want to improve and contribute you are 100% welcome to do so)
-
-## To-do
+## Things that could be done to improve the app
 - [x] confetti when raffled
 - [ ] add participants as a mod (or)
 - [ ] scrape a txt file of names and prizes into a json object
